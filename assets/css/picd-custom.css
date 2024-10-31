@@ -1,0 +1,34 @@
+.picd_credits{
+	font-size: 15px; 
+	margin-left: 20px; 
+	margin-top: 10px; 
+	font-weight: bold;
+}
+.picdio_loader{
+	display:none;
+}
+.swal2-title {
+	line-height: 37px;
+}
+.notice_picd {
+    background: #fff;
+    border: 1px solid #c3c4c7;
+    border-left-width: 4px;
+    box-shadow: 0 1px 1px rgb(0 0 0 / 4%);
+    margin: 5px 0 15px;
+    padding: 1px 12px;
+}
+.notice_picd p{
+    margin: 0.5em 0;
+    padding: 2px;
+}
+.notice_picd.notice-success{
+    border-left-color: #00a32a;
+}
+.wp-core-ui .notice_picd.is-dismissible {
+    padding-right: 38px;
+    position: relative;
+}
+.picd_disabled_txt{
+	color: #a7aaad!important;
+}
